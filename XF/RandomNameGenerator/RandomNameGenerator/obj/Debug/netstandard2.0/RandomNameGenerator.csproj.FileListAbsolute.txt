@@ -1,0 +1,14 @@
+/Users/glennstephens/Documents/TwitchCode/RandomNames/XF/RandomNameGenerator/RandomNameGenerator/bin/Debug/netstandard2.0/RandomNameGenerator.deps.json
+/Users/glennstephens/Documents/TwitchCode/RandomNames/XF/RandomNameGenerator/RandomNameGenerator/bin/Debug/netstandard2.0/RandomNameGenerator.dll
+/Users/glennstephens/Documents/TwitchCode/RandomNames/XF/RandomNameGenerator/RandomNameGenerator/bin/Debug/netstandard2.0/ref/RandomNameGenerator.dll
+/Users/glennstephens/Documents/TwitchCode/RandomNames/XF/RandomNameGenerator/RandomNameGenerator/bin/Debug/netstandard2.0/RandomNameGenerator.pdb
+/Users/glennstephens/Documents/TwitchCode/RandomNames/XF/RandomNameGenerator/RandomNameGenerator/obj/Debug/netstandard2.0/RandomNameGenerator.csprojAssemblyReference.cache
+/Users/glennstephens/Documents/TwitchCode/RandomNames/XF/RandomNameGenerator/RandomNameGenerator/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/glennstephens/Documents/TwitchCode/RandomNames/XF/RandomNameGenerator/RandomNameGenerator/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/glennstephens/Documents/TwitchCode/RandomNames/XF/RandomNameGenerator/RandomNameGenerator/obj/Debug/netstandard2.0/RandomNameGenerator.AssemblyInfoInputs.cache
+/Users/glennstephens/Documents/TwitchCode/RandomNames/XF/RandomNameGenerator/RandomNameGenerator/obj/Debug/netstandard2.0/RandomNameGenerator.AssemblyInfo.cs
+/Users/glennstephens/Documents/TwitchCode/RandomNames/XF/RandomNameGenerator/RandomNameGenerator/obj/Debug/netstandard2.0/RandomNameGenerator.csproj.CoreCompileInputs.cache
+/Users/glennstephens/Documents/TwitchCode/RandomNames/XF/RandomNameGenerator/RandomNameGenerator/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/glennstephens/Documents/TwitchCode/RandomNames/XF/RandomNameGenerator/RandomNameGenerator/obj/Debug/netstandard2.0/RandomNameGenerator.dll
+/Users/glennstephens/Documents/TwitchCode/RandomNames/XF/RandomNameGenerator/RandomNameGenerator/obj/Debug/netstandard2.0/ref/RandomNameGenerator.dll
+/Users/glennstephens/Documents/TwitchCode/RandomNames/XF/RandomNameGenerator/RandomNameGenerator/obj/Debug/netstandard2.0/RandomNameGenerator.pdb

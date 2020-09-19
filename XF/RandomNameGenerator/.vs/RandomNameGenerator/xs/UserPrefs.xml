@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{C41AAD24-E3A5-4E10-B94C-4EF8FB3D0437}|Default">
+  <MonoDevelop.Ide.ItemProperties.RandomNameGenerator.iOS TriggeredFromHotReload="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E0C7DE1A-0A34-4E44-B1CE-07EE59AB5165" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RandomNameGenerator.iOS/RandomNameGenerator.iOS.csproj">
+    <Files>
+      <File FileName="RandomNameGenerator/MainPage.xaml" Line="7" Column="15" />
+      <File FileName="RandomNameGenerator/MainPage.xaml.cs" Line="20" Column="1" />
+      <File FileName="RandomNameGenerator.iOS/RandomNameGenerator.iOS.csproj" Line="72" Column="29" />
+      <File FileName="RandomNameGenerator.iOS/Info.plist" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RandomNameGenerator" expanded="True">
+            <Node name="RandomNameGenerator" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="RandomNameGenerator.iOS" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.RandomNameGenerator.Android FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+</Properties>

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "JEv3dKY4gh9PPmLqSCFICjSeicQjjaLqO99ym3mVM6mrxVjZk/1KcIPOQxWW0uOBmsd3cASUj+2OfI9ZjNMvMQ==",
+  "success": true,
+  "projectFilePath": "/Users/glennstephens/Documents/TwitchCode/RandomNames/XF/RandomNameGenerator/RandomNameGenerator/RandomNameGenerator.csproj",
+  "expectedPackageFiles": [
+    "/Users/glennstephens/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/glennstephens/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/glennstephens/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/glennstephens/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/glennstephens/.nuget/packages/xamarin.forms/4.8.0.1364/xamarin.forms.4.8.0.1364.nupkg.sha512"
+  ],
+  "logs": []
+}

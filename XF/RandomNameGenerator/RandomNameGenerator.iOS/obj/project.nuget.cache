@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zrZ6kf8lN8wt7GyNvwDcyARuB7Z9Jqm+8RBu8AfpN2tvdcgtUUkMunRHuJtY0srTOy2vrduRciZ91qWvuwcUSw==",
+  "success": true,
+  "projectFilePath": "/Users/glennstephens/Documents/TwitchCode/RandomNames/XF/RandomNameGenerator/RandomNameGenerator.iOS/RandomNameGenerator.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/glennstephens/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/glennstephens/.nuget/packages/xamarin.forms/4.8.0.1364/xamarin.forms.4.8.0.1364.nupkg.sha512"
+  ],
+  "logs": []
+}
